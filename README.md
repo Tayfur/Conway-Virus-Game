@@ -1,2 +1,2 @@
 # Conway-Virus-Game
-** How to play **
+**How to play**
